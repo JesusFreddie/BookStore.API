@@ -1,0 +1,1 @@
+﻿public record BooksRequest(string Title, string Description, uint Price);
